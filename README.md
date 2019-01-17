@@ -1,4 +1,4 @@
-# Irish-Poker
+# Irish Poker
 
 The popular drinking game developed in VB.NET.
 
